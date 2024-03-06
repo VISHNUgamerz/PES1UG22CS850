@@ -16,6 +16,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 // Placeholder: Deploy artifacts here
+                error added 
                 echo 'Deploying...'
             }
         }
